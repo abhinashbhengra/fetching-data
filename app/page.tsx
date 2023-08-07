@@ -9,6 +9,7 @@ export default function Home() {
       <h1>Home Page</h1>
       <p>
         <Link href="/users">Users</Link>
+        <Link href="/parallel">Go to Parallel Routing World</Link>
       </p>
     </main>
   );
